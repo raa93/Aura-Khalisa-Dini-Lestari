@@ -1,4 +1,4 @@
-CREATE TABLE todos (
+CREATE TABLE pasien (
     id_pasien INT AUTO_INCREMENT PRIMARY KEY,
     nama VARCHAR(50) NOT NULL,
     poli VARCHAR(50) NOT NULL,
